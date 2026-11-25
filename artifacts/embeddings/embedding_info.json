@@ -1,0 +1,6 @@
+{
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "text_column": "Teacher_profile",
+    "num_rows": 300,
+    "embedding_dim": 384
+}

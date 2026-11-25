@@ -1,0 +1,6 @@
+{
+    "best_k": 7,
+    "silhouette_score": 0.7063765525817871,
+    "inertia": 5.282962322235107,
+    "model": "KMeans"
+}
